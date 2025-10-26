@@ -99,4 +99,3 @@ By focusing on key factors like compensation, engagement, and work-life balance,
 🔗 **GitHub Profile:** [sathwikap03](https://github.com/sathwikap03)  
 📧 **Email:** *[sathwikap03@gmail.com]*  
 
-⭐ *If you found this project useful, please give it a star on GitHub!*
