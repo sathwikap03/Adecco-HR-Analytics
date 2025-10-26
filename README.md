@@ -85,7 +85,7 @@ Performed deeper analytics using correlations and relationships:
 5. Explore PivotTables for deeper analysis under the **Data Analysis** sheet.  
 
 ## 🌱 Future Improvements
-- Automate data refresh using Power Query  
+- Automate data refresh using Power Query. 
 - Build an interactive dashboard in **Power BI**  
 - Integrate predictive modeling for attrition forecasting  
 - Add real-time HR data from external sources  
